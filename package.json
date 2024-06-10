@@ -21,7 +21,7 @@
   },
   "scripts": {
     "wdio": "wdio config/wdio.android.conf.ts",
-    "test-xyz": "wdio config/wdio.android.test.conf.ts"
+    "test-sts": "wdio config/wdio.android.sts.conf.ts"
   },
   "dependencies": {
     "chai": "^5.1.0",
